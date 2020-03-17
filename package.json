@@ -1,0 +1,25 @@
+{
+  "name": "@melnikov-s/tslsp",
+  "version": "0.1.0",
+  "description": "Opinionated typescript library starterpack",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melnikov-s/typescript-library-starterpack.git"
+  },
+  "author": "Sergey Melnikov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/melnikov-s/typescript-library-starterpack/issues"
+  },
+  "homepage": "https://github.com/melnikov-s/typescript-library-starterpack#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "glob": "^7.1.6",
+    "ncp": "^2.0.0",
+    "npm-check-updates": "^4.0.4"
+  },
+  "bin": {
+    "tslsp": "./index.js"
+  }
+}
